@@ -9,7 +9,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Click [here](https://nsb229.github.io/CodeGryl/) to view it in your browser.
+Click [CodeGryl](https://nsb229.github.io/CodeGryl/) to view the app in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
