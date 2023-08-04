@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CodeGryl/static/css/main.f0293730.css",
+    "main.js": "/CodeGryl/static/js/main.666f54f3.js",
+    "index.html": "/CodeGryl/index.html",
+    "main.f0293730.css.map": "/CodeGryl/static/css/main.f0293730.css.map",
+    "main.666f54f3.js.map": "/CodeGryl/static/js/main.666f54f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0293730.css",
+    "static/js/main.666f54f3.js"
+  ]
+}
