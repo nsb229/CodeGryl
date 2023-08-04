@@ -1,3 +1,7 @@
+# CodeGryl - A Recipe App Made with React
+<img width="1430" alt="Screen Shot 2023-08-04 at 5 12 04 PM" src="https://github.com/nsb229/CodeGryl/assets/126029768/94337c8f-7b52-4b0e-bf3e-fb692be5badb">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
