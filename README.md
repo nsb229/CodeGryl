@@ -12,9 +12,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Runs the app in the development mode.
 
-Click [here](https://nsb229.github.io/CodeGryl/) to view the app in your browser. Click on the sections labeled "Italian," "American," "Japanese," and "Thai" to view recipes from these sections. In the search bar, you can search for any recipe you want. For example, "muffins."
+### To View App
+Click [Here](https://nsb229.github.io/CodeGryl/) to view the app in your browser. Click on the sections labeled "Italian," "American," "Japanese," and "Thai" to view recipes from these sections. In the search bar, you can search for any recipe you want. For example, "muffins."
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
