@@ -6,6 +6,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To View App
+Click [Here](https://nsb229.github.io/CodeGryl/) to view the app in your browser. 
+Click on the sections labeled "Italian," "American," "Japanese," and "Thai" to view recipes from these sections. Click on the recipe to be redirected to its own page.
+In the search bar, you can search for any recipe you want. One search example could be "muffins." 
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -13,10 +18,6 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.
-
-### To View App
-Click [Here](https://nsb229.github.io/CodeGryl/) to view the app in your browser. Click on the sections labeled "Italian," "American," "Japanese," and "Thai" to view recipes from these sections. In the search bar, you can search for any recipe you want. For example, "muffins."
-
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
