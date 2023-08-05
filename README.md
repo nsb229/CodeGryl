@@ -11,6 +11,7 @@ Click [CodeGryl](https://nsb229.github.io/CodeGryl/) to view the app in your bro
 
 ## To Navigate App
 Click on the sections labeled "Italian," "American," "Japanese," and "Thai" to view recipes from these sections. Click on the recipe to be redirected to its own page.
+The user can also click the ‘Code Gryl’ logo to go to a page consisting of popular picks, vegetarian recipes, low carb picks and gluten free dishes. 
 In the search bar, you can search for any recipe you want. One search example could be "muffins." 
 
 ## Available Scripts
